@@ -21,4 +21,4 @@ I built a clean, reproducible Python data pipeline using Pandas, Matplotlib, and
 ## 🚀 How to Run locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/vortextech-aiml-week1.git](https://github.com/YOUR_GITHUB_USERNAME/vortextech-aiml-week1.git)
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/vortextech-aiml-week1.git](https://github.com/QASIM0908/vortextech-aiml-week1.git)
